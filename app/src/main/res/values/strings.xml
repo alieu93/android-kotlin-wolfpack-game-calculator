@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WolfpackGameCalculator</string>
+    <string name="main_header">Targeting Calculator</string>
+    <string name="target_distance_title">Target Distance</string>
+</resources>
