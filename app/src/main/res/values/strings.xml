@@ -1,5 +1,14 @@
 <resources>
     <string name="app_name">WolfpackGameCalculator</string>
     <string name="main_header">Targeting Calculator</string>
-    <string name="target_distance_title">Target Distance</string>
+    <string name="target_distance_title">Target Distance (meters)</string>
+    <string name="target_height">Target Height (meters)</string>
+    <string name="view_angle">View Angle on Periscope (Centiradians)</string>
+    <string name="is_zoomed_in">Zoomed in (4x)</string>
+    <string name="calculate">Calculate</string>
+    <string name="target_distance_description">Target distance = Target Height / \n \t\t\t\t\t View Angle (centiradians)</string>
+    <string name="target_speed_title">Target Speed</string>
+    <string name="target_speed_description">Target Speed = Length of Target / \n \t\t\t\t\t Amount of time to pass vertical in periscope crosshair</string>
+    <string name="length_of_target">Length of Target</string>
+    <string name="vertical_time_to_pass">Time to pass vertical periscope line</string>
 </resources>
