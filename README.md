@@ -6,3 +6,10 @@ Target distance (In Hectometers) = Target Height (meters) / View Angle on Perisc
   - Multiply by 4 if zoomed in
 
 Target Speed = Length of Target / Amount of time to pass vertical in periscope crosshair (x 1.94 to get it in knots)
+
+
+# Current Implementation Goals:
+- Basic functionality for calculation
+- Splash screen
+- App directory for current boats in game and autofill parameters 
+- Cleanup 
